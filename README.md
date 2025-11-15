@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI & Machine Learning Enthusiast | Python Developer | Building Intelligent Systems<br>Computer Engineering Student | Deep Learning Projects
+AI & Machine Learning Enthusiast | Python Developer | Building Intelligent Systems<br>Full-Stack Developer | Deep Learning Projects
 
 
 ## 🌐 Socials:
